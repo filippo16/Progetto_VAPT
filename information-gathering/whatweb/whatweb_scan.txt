@@ -1,0 +1,6 @@
+[1m[34mhttp://172.17.0.2:3000[0m [200 OK] [1mCountry[0m[[0m[22mRESERVED[0m][[1m[31mZZ[0m], [1mHTML5[0m, [1mIP[0m[[0m[22m172.17.0.2[0m], [1mJQuery[0m[[1m[32m2.2.4[0m], [1mScript[0m[[0m[22mmodule[0m], [1mTitle[0m[[1m[33mOWASP Juice Shop[0m], [1mUncommonHeaders[0m[[0m[22maccess-control-allow-origin,x-content-type-options,feature-policy,x-recruiting[0m], [1mX-Frame-Options[0m[[0m[22mSAMEORIGIN[0m]
+
+------------------------------------------
+Scritto a mano l'output bash, perché tramite comando risulta in un formato NON interpretabile
+
+http://172.17.0.2:3000 [200 OK] Country[RESERVED][ZZ], HTML5, IP[172.17.0.2], JQuery[2.2.4], Script[module], Title[OWASP Juice Shop], UncommonHeaders[access-control-allow-origin, x-content-type-options, feature-policy, x-recruiting], X-Frame-Options[SAMEORIGIN]
